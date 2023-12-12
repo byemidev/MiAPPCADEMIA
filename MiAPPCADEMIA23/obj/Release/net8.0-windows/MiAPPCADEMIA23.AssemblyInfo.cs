@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiAPPCADEMIA23")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc2311c93dd1415789147c6d280b3fea1246633a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiAPPCADEMIA23")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiAPPCADEMIA23")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,7 +13,11 @@ namespace MiAPPCADEMIA23
             InitializeComponent();
             UsuarioController controller = new UsuarioController();
             usuarios = new List<Usuario>();
-            usuarios = controller.GetUsuarios();
+            //usuarios = controller.getUsuariosFromXML();
+            if (!controller.getSerializarBin()) {
+                MessageBox.Show("no esta creando el binario");
+            }
+            //usuarios = controller.GetUsuarios();
         }
 
         private void btn_Cerrar_Click(object sender, EventArgs e)
@@ -30,7 +34,7 @@ namespace MiAPPCADEMIA23
 
         private bool validarEntrada(string id, string clave)
         {
-            if (usuarios.Any(x => (x.getId().ToLower()).Equals(txtbId.Text) && (x.getClave().ToLower()).Equals(txtbKey.Text) ))
+            if (usuarios.Any(x => (x.getId().ToLower()).Equals(txtbId.Text.Trim()) && (x.getClave().ToLower()).Equals(txtbKey.Text.Trim())))
             {
                 return true;
             }

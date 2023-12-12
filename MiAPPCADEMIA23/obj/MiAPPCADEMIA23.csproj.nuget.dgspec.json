@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\goeth\\source\\repos\\MiAPPCADEMIA23\\MiAPPCADEMIA23\\MiAPPCADEMIA23.csproj": {}
+    "C:\\Users\\vboxuser\\Source\\Repos\\MiAPPCADEMIA\\MiAPPCADEMIA23\\MiAPPCADEMIA23.csproj": {}
   },
   "projects": {
-    "C:\\Users\\goeth\\source\\repos\\MiAPPCADEMIA23\\MiAPPCADEMIA23\\MiAPPCADEMIA23.csproj": {
+    "C:\\Users\\vboxuser\\Source\\Repos\\MiAPPCADEMIA\\MiAPPCADEMIA23\\MiAPPCADEMIA23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\goeth\\source\\repos\\MiAPPCADEMIA23\\MiAPPCADEMIA23\\MiAPPCADEMIA23.csproj",
+        "projectUniqueName": "C:\\Users\\vboxuser\\Source\\Repos\\MiAPPCADEMIA\\MiAPPCADEMIA23\\MiAPPCADEMIA23.csproj",
         "projectName": "MiAPPCADEMIA23",
-        "projectPath": "C:\\Users\\goeth\\source\\repos\\MiAPPCADEMIA23\\MiAPPCADEMIA23\\MiAPPCADEMIA23.csproj",
-        "packagesPath": "C:\\Users\\goeth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\goeth\\source\\repos\\MiAPPCADEMIA23\\MiAPPCADEMIA23\\obj\\",
+        "projectPath": "C:\\Users\\vboxuser\\Source\\Repos\\MiAPPCADEMIA\\MiAPPCADEMIA23\\MiAPPCADEMIA23.csproj",
+        "packagesPath": "C:\\Users\\vboxuser\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vboxuser\\Source\\Repos\\MiAPPCADEMIA\\MiAPPCADEMIA23\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\goeth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vboxuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

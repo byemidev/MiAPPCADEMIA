@@ -27,8 +27,7 @@ namespace MiAPPCADEMIA23.View
             {
                 Label label = new Label();
                 label.Text = valor.ToString();
-                label.Font = Font = new Font("Impact", 18F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
-                label.BackColor = Color.White;  
+                label.Font = Font = new Font("Impact", 12F, FontStyle.Bold | FontStyle.Italic, GraphicsUnit.Point, 0);
                 label.AutoSize = true;
                 label.Margin = new Padding(15); // Margen de 15px
                 label.Padding = new Padding(5); // Padding de 5px
